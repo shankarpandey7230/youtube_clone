@@ -1,7 +1,7 @@
 import React from "react";
 
 const SearchResult = () => {
-  return <div>S</div>;
+  return <div>Search Result</div>;
 };
 
 export default SearchResult;
